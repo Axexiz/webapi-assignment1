@@ -19,7 +19,7 @@ Note: All the functions listed below are for the end-user only. No admin functio
 Clone the repository using the command:
 
 ```bash
-git clone https://github.com/your-repo/travel-booking-system.git
+git clone https://github.com/Axexiz/webapi-assignment1
 ```
 
 #### **Step 2: Ensure that `app.js` file is present**
